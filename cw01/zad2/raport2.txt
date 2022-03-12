@@ -1,0 +1,20 @@
+                               name:	       real_time [s]	       user_time [s]	        sys_time [s]
+small number of small files counted:	            0.010000	            0.000000	            0.000000
+small number of small files removed:	            0.000000	            0.000000	            0.000000
+medium number of small files counted:	            0.090000	            0.000000	            0.000000
+medium number of small files removed:	            0.000000	            0.000000	            0.000000
+large number of small files counted:	            0.170000	            0.010000	            0.000000
+large number of small files removed:	            0.000000	            0.000000	            0.000000
+small number of medium files counted:	            0.040000	            0.000000	            0.000000
+small number of medium files removed:	            0.000000	            0.000000	            0.000000
+medium number of medium files counted:	            0.320000	            0.000000	            0.000000
+medium number of medium files removed:	            0.000000	            0.000000	            0.000000
+large number of medium files counted:	            0.780000	            0.010000	            0.000000
+large number of medium files removed:	            0.000000	            0.000000	            0.000000
+small number of large files counted:	            0.290000	            0.000000	            0.000000
+small number of large files removed:	            0.000000	            0.000000	            0.000000
+medium number of large files counted:	            2.610000	            0.000000	            0.000000
+medium number of large files removed:	            0.000000	            0.000000	            0.000000
+large number of large files counted:	            6.540000	            0.000000	            0.010000
+large number of large files removed:	            0.000000	            0.000000	            0.000000
+  alternating counting and removing:	            5.010000	            0.000000	            0.010000
