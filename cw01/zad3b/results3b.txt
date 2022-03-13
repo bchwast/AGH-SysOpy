@@ -1,0 +1,266 @@
+main_static:
+O0:
+                               name:	       real_time [s]	       user_time [s]	        sys_time [s]
+small number of small files counted:	            0.010000	            0.000000	            0.000000
+small number of small files removed:	            0.000000	            0.000000	            0.000000
+medium number of small files counted:	            0.090000	            0.000000	            0.000000
+medium number of small files removed:	            0.000000	            0.000000	            0.000000
+large number of small files counted:	            0.180000	            0.010000	            0.000000
+large number of small files removed:	            0.000000	            0.000000	            0.000000
+small number of medium files counted:	            0.040000	            0.000000	            0.000000
+small number of medium files removed:	            0.000000	            0.000000	            0.000000
+medium number of medium files counted:	            0.330000	            0.000000	            0.000000
+medium number of medium files removed:	            0.000000	            0.000000	            0.000000
+large number of medium files counted:	            0.810000	            0.000000	            0.000000
+large number of medium files removed:	            0.000000	            0.000000	            0.000000
+small number of large files counted:	            0.290000	            0.000000	            0.000000
+small number of large files removed:	            0.000000	            0.000000	            0.000000
+medium number of large files counted:	            2.620000	            0.010000	            0.000000
+medium number of large files removed:	            0.000000	            0.000000	            0.000000
+large number of large files counted:	            6.530000	            0.000000	            0.000000
+large number of large files removed:	            0.000000	            0.000000	            0.000000
+  alternating counting and removing:	            5.040000	            0.000000	            0.010000
+
+O2:
+                               name:	       real_time [s]	       user_time [s]	        sys_time [s]
+small number of small files counted:	            0.010000	            0.000000	            0.000000
+small number of small files removed:	            0.000000	            0.000000	            0.000000
+medium number of small files counted:	            0.070000	            0.000000	            0.000000
+medium number of small files removed:	            0.000000	            0.000000	            0.000000
+large number of small files counted:	            0.160000	            0.000000	            0.000000
+large number of small files removed:	            0.000000	            0.000000	            0.000000
+small number of medium files counted:	            0.040000	            0.000000	            0.000000
+small number of medium files removed:	            0.000000	            0.000000	            0.000000
+medium number of medium files counted:	            0.320000	            0.000000	            0.000000
+medium number of medium files removed:	            0.000000	            0.000000	            0.000000
+large number of medium files counted:	            0.770000	            0.000000	            0.010000
+large number of medium files removed:	            0.000000	            0.000000	            0.000000
+small number of large files counted:	            0.290000	            0.000000	            0.000000
+small number of large files removed:	            0.000000	            0.000000	            0.000000
+medium number of large files counted:	            2.610000	            0.000000	            0.000000
+medium number of large files removed:	            0.000000	            0.000000	            0.000000
+large number of large files counted:	            6.510000	            0.000000	            0.010000
+large number of large files removed:	            0.000000	            0.000000	            0.000000
+  alternating counting and removing:	            5.020000	            0.000000	            0.000000
+
+O3:
+                               name:	       real_time [s]	       user_time [s]	        sys_time [s]
+small number of small files counted:	            0.020000	            0.000000	            0.000000
+small number of small files removed:	            0.000000	            0.000000	            0.000000
+medium number of small files counted:	            0.060000	            0.000000	            0.000000
+medium number of small files removed:	            0.000000	            0.000000	            0.000000
+large number of small files counted:	            0.150000	            0.000000	            0.000000
+large number of small files removed:	            0.000000	            0.000000	            0.000000
+small number of medium files counted:	            0.040000	            0.000000	            0.000000
+small number of medium files removed:	            0.000000	            0.000000	            0.000000
+medium number of medium files counted:	            0.310000	            0.000000	            0.000000
+medium number of medium files removed:	            0.000000	            0.000000	            0.000000
+large number of medium files counted:	            0.770000	            0.000000	            0.010000
+large number of medium files removed:	            0.000000	            0.000000	            0.000000
+small number of large files counted:	            0.290000	            0.000000	            0.000000
+small number of large files removed:	            0.000000	            0.000000	            0.000000
+medium number of large files counted:	            2.640000	            0.000000	            0.000000
+medium number of large files removed:	            0.000000	            0.000000	            0.000000
+large number of large files counted:	            6.550000	            0.000000	            0.010000
+large number of large files removed:	            0.000000	            0.000000	            0.000000
+  alternating counting and removing:	            5.000000	            0.000000	            0.010000
+
+Os:
+                               name:	       real_time [s]	       user_time [s]	        sys_time [s]
+small number of small files counted:	            0.010000	            0.000000	            0.000000
+small number of small files removed:	            0.000000	            0.000000	            0.000000
+medium number of small files counted:	            0.070000	            0.000000	            0.000000
+medium number of small files removed:	            0.000000	            0.000000	            0.000000
+large number of small files counted:	            0.160000	            0.000000	            0.000000
+large number of small files removed:	            0.000000	            0.000000	            0.000000
+small number of medium files counted:	            0.040000	            0.000000	            0.000000
+small number of medium files removed:	            0.000000	            0.000000	            0.000000
+medium number of medium files counted:	            0.320000	            0.000000	            0.000000
+medium number of medium files removed:	            0.000000	            0.000000	            0.000000
+large number of medium files counted:	            0.750000	            0.000000	            0.010000
+large number of medium files removed:	            0.000000	            0.000000	            0.000000
+small number of large files counted:	            0.290000	            0.000000	            0.000000
+small number of large files removed:	            0.000000	            0.000000	            0.000000
+medium number of large files counted:	            2.640000	            0.000000	            0.000000
+medium number of large files removed:	            0.000000	            0.000000	            0.000000
+large number of large files counted:	            6.610000	            0.000000	            0.010000
+large number of large files removed:	            0.000000	            0.000000	            0.000000
+  alternating counting and removing:	            5.100000	            0.000000	            0.000000
+
+main_shared:
+O0:
+                               name:	       real_time [s]	       user_time [s]	        sys_time [s]
+small number of small files counted:	            0.010000	            0.000000	            0.000000
+small number of small files removed:	            0.000000	            0.000000	            0.000000
+medium number of small files counted:	            0.080000	            0.000000	            0.000000
+medium number of small files removed:	            0.000000	            0.000000	            0.000000
+large number of small files counted:	            0.140000	            0.000000	            0.010000
+large number of small files removed:	            0.000000	            0.000000	            0.000000
+small number of medium files counted:	            0.040000	            0.000000	            0.000000
+small number of medium files removed:	            0.000000	            0.000000	            0.000000
+medium number of medium files counted:	            0.310000	            0.000000	            0.000000
+medium number of medium files removed:	            0.000000	            0.000000	            0.000000
+large number of medium files counted:	            0.770000	            0.000000	            0.000000
+large number of medium files removed:	            0.000000	            0.000000	            0.000000
+small number of large files counted:	            0.290000	            0.000000	            0.010000
+small number of large files removed:	            0.000000	            0.000000	            0.000000
+medium number of large files counted:	            2.590000	            0.000000	            0.000000
+medium number of large files removed:	            0.000000	            0.000000	            0.000000
+large number of large files counted:	            6.550000	            0.000000	            0.010000
+large number of large files removed:	            0.000000	            0.000000	            0.000000
+  alternating counting and removing:	            5.020000	            0.000000	            0.000000
+
+O2:
+                               name:	       real_time [s]	       user_time [s]	        sys_time [s]
+small number of small files counted:	            0.020000	            0.000000	            0.000000
+small number of small files removed:	            0.000000	            0.000000	            0.000000
+medium number of small files counted:	            0.080000	            0.000000	            0.000000
+medium number of small files removed:	            0.000000	            0.000000	            0.000000
+large number of small files counted:	            0.150000	            0.000000	            0.000000
+large number of small files removed:	            0.000000	            0.000000	            0.000000
+small number of medium files counted:	            0.040000	            0.000000	            0.000000
+small number of medium files removed:	            0.000000	            0.000000	            0.000000
+medium number of medium files counted:	            0.310000	            0.000000	            0.010000
+medium number of medium files removed:	            0.000000	            0.000000	            0.000000
+large number of medium files counted:	            0.780000	            0.000000	            0.000000
+large number of medium files removed:	            0.000000	            0.000000	            0.000000
+small number of large files counted:	            0.290000	            0.000000	            0.000000
+small number of large files removed:	            0.000000	            0.000000	            0.000000
+medium number of large files counted:	            2.570000	            0.000000	            0.010000
+medium number of large files removed:	            0.000000	            0.000000	            0.000000
+large number of large files counted:	            6.560000	            0.000000	            0.000000
+large number of large files removed:	            0.000000	            0.000000	            0.000000
+  alternating counting and removing:	            5.010000	            0.000000	            0.010000
+
+O3:
+                               name:	       real_time [s]	       user_time [s]	        sys_time [s]
+small number of small files counted:	            0.020000	            0.000000	            0.000000
+small number of small files removed:	            0.000000	            0.000000	            0.000000
+medium number of small files counted:	            0.070000	            0.000000	            0.000000
+medium number of small files removed:	            0.000000	            0.000000	            0.000000
+large number of small files counted:	            0.150000	            0.000000	            0.000000
+large number of small files removed:	            0.000000	            0.000000	            0.000000
+small number of medium files counted:	            0.040000	            0.000000	            0.000000
+small number of medium files removed:	            0.000000	            0.000000	            0.000000
+medium number of medium files counted:	            0.320000	            0.000000	            0.000000
+medium number of medium files removed:	            0.000000	            0.000000	            0.000000
+large number of medium files counted:	            0.820000	            0.000000	            0.010000
+large number of medium files removed:	            0.000000	            0.000000	            0.000000
+small number of large files counted:	            0.280000	            0.000000	            0.000000
+small number of large files removed:	            0.000000	            0.000000	            0.000000
+medium number of large files counted:	            2.650000	            0.000000	            0.000000
+medium number of large files removed:	            0.000000	            0.000000	            0.000000
+large number of large files counted:	            6.610000	            0.000000	            0.010000
+large number of large files removed:	            0.000000	            0.000000	            0.000000
+  alternating counting and removing:	            4.960000	            0.000000	            0.000000
+
+Os:
+                               name:	       real_time [s]	       user_time [s]	        sys_time [s]
+small number of small files counted:	            0.020000	            0.000000	            0.000000
+small number of small files removed:	            0.000000	            0.000000	            0.000000
+medium number of small files counted:	            0.070000	            0.000000	            0.000000
+medium number of small files removed:	            0.000000	            0.000000	            0.000000
+large number of small files counted:	            0.150000	            0.000000	            0.010000
+large number of small files removed:	            0.000000	            0.000000	            0.000000
+small number of medium files counted:	            0.040000	            0.000000	            0.000000
+small number of medium files removed:	            0.000000	            0.000000	            0.000000
+medium number of medium files counted:	            0.310000	            0.000000	            0.000000
+medium number of medium files removed:	            0.000000	            0.000000	            0.000000
+large number of medium files counted:	            0.770000	            0.000000	            0.010000
+large number of medium files removed:	            0.000000	            0.000000	            0.000000
+small number of large files counted:	            0.280000	            0.000000	            0.000000
+small number of large files removed:	            0.000000	            0.000000	            0.000000
+medium number of large files counted:	            2.600000	            0.000000	            0.000000
+medium number of large files removed:	            0.000000	            0.000000	            0.000000
+large number of large files counted:	            6.450000	            0.000000	            0.000000
+large number of large files removed:	            0.000000	            0.000000	            0.000000
+  alternating counting and removing:	            4.990000	            0.000000	            0.010000
+
+main_dll:
+O0:
+                               name:	       real_time [s]	       user_time [s]	        sys_time [s]
+small number of small files counted:	            0.020000	            0.000000	            0.000000
+small number of small files removed:	            0.000000	            0.000000	            0.000000
+medium number of small files counted:	            0.060000	            0.000000	            0.000000
+medium number of small files removed:	            0.000000	            0.000000	            0.000000
+large number of small files counted:	            0.150000	            0.000000	            0.000000
+large number of small files removed:	            0.000000	            0.000000	            0.000000
+small number of medium files counted:	            0.040000	            0.000000	            0.000000
+small number of medium files removed:	            0.000000	            0.000000	            0.000000
+medium number of medium files counted:	            0.310000	            0.000000	            0.010000
+medium number of medium files removed:	            0.000000	            0.000000	            0.000000
+large number of medium files counted:	            0.770000	            0.000000	            0.000000
+large number of medium files removed:	            0.000000	            0.000000	            0.000000
+small number of large files counted:	            0.290000	            0.000000	            0.010000
+small number of large files removed:	            0.000000	            0.000000	            0.000000
+medium number of large files counted:	            2.660000	            0.000000	            0.000000
+medium number of large files removed:	            0.000000	            0.000000	            0.000000
+large number of large files counted:	            6.560000	            0.000000	            0.010000
+large number of large files removed:	            0.000000	            0.000000	            0.000000
+  alternating counting and removing:	            5.040000	            0.000000	            0.010000
+
+O2:
+                               name:	       real_time [s]	       user_time [s]	        sys_time [s]
+small number of small files counted:	            0.020000	            0.000000	            0.000000
+small number of small files removed:	            0.000000	            0.000000	            0.000000
+medium number of small files counted:	            0.060000	            0.000000	            0.000000
+medium number of small files removed:	            0.000000	            0.000000	            0.000000
+large number of small files counted:	            0.160000	            0.000000	            0.000000
+large number of small files removed:	            0.000000	            0.000000	            0.000000
+small number of medium files counted:	            0.030000	            0.010000	            0.000000
+small number of medium files removed:	            0.000000	            0.000000	            0.000000
+medium number of medium files counted:	            0.320000	            0.000000	            0.000000
+medium number of medium files removed:	            0.000000	            0.000000	            0.000000
+large number of medium files counted:	            0.760000	            0.010000	            0.000000
+large number of medium files removed:	            0.000000	            0.000000	            0.000000
+small number of large files counted:	            0.290000	            0.000000	            0.000000
+small number of large files removed:	            0.000000	            0.000000	            0.000000
+medium number of large files counted:	            2.660000	            0.000000	            0.000000
+medium number of large files removed:	            0.000000	            0.000000	            0.000000
+large number of large files counted:	            6.580000	            0.010000	            0.000000
+large number of large files removed:	            0.000000	            0.000000	            0.000000
+  alternating counting and removing:	            5.060000	            0.000000	            0.000000
+
+O3:
+                               name:	       real_time [s]	       user_time [s]	        sys_time [s]
+small number of small files counted:	            0.010000	            0.000000	            0.000000
+small number of small files removed:	            0.000000	            0.000000	            0.000000
+medium number of small files counted:	            0.070000	            0.000000	            0.000000
+medium number of small files removed:	            0.000000	            0.000000	            0.000000
+large number of small files counted:	            0.150000	            0.000000	            0.000000
+large number of small files removed:	            0.000000	            0.000000	            0.000000
+small number of medium files counted:	            0.040000	            0.000000	            0.000000
+small number of medium files removed:	            0.000000	            0.000000	            0.000000
+medium number of medium files counted:	            0.310000	            0.000000	            0.000000
+medium number of medium files removed:	            0.000000	            0.000000	            0.000000
+large number of medium files counted:	            0.770000	            0.000000	            0.000000
+large number of medium files removed:	            0.000000	            0.000000	            0.000000
+small number of large files counted:	            0.290000	            0.000000	            0.000000
+small number of large files removed:	            0.000000	            0.000000	            0.000000
+medium number of large files counted:	            2.620000	            0.000000	            0.010000
+medium number of large files removed:	            0.000000	            0.000000	            0.000000
+large number of large files counted:	            6.640000	            0.000000	            0.010000
+large number of large files removed:	            0.000000	            0.000000	            0.000000
+  alternating counting and removing:	            5.060000	            0.000000	            0.010000
+
+Os:
+                               name:	       real_time [s]	       user_time [s]	        sys_time [s]
+small number of small files counted:	            0.010000	            0.000000	            0.000000
+small number of small files removed:	            0.000000	            0.000000	            0.000000
+medium number of small files counted:	            0.080000	            0.000000	            0.000000
+medium number of small files removed:	            0.000000	            0.000000	            0.000000
+large number of small files counted:	            0.140000	            0.000000	            0.000000
+large number of small files removed:	            0.000000	            0.000000	            0.000000
+small number of medium files counted:	            0.050000	            0.000000	            0.000000
+small number of medium files removed:	            0.000000	            0.000000	            0.000000
+medium number of medium files counted:	            0.310000	            0.000000	            0.010000
+medium number of medium files removed:	            0.000000	            0.000000	            0.000000
+large number of medium files counted:	            0.770000	            0.000000	            0.000000
+large number of medium files removed:	            0.000000	            0.000000	            0.000000
+small number of large files counted:	            0.290000	            0.000000	            0.000000
+small number of large files removed:	            0.000000	            0.000000	            0.000000
+medium number of large files counted:	            2.610000	            0.000000	            0.010000
+medium number of large files removed:	            0.000000	            0.000000	            0.000000
+large number of large files counted:	            6.520000	            0.000000	            0.000000
+large number of large files removed:	            0.000000	            0.000000	            0.000000
+  alternating counting and removing:	            4.960000	            0.010000	            0.010000
