@@ -65,7 +65,6 @@ int stats(const char *file_path, const struct stat *file_stat, int tflag, struct
 int main(int argc, char* argv[]) {
     char *directory_name = calloc(10000, sizeof(char));
     char *buf = calloc(10000, sizeof(char));
-    int flags = 0;
 
     if (argc > 1) {
         strcpy(directory_name, argv[1]);
@@ -75,7 +74,7 @@ int main(int argc, char* argv[]) {
     }
     realpath(directory_name, buf);
 
-    if (nftw(buf, stats, 20, flags) == -1) {
+    if (nftw(buf, stats, 20, FTW_PHYS) == -1) {
         printf("Error with nftw\n");
         exit(0);
     }

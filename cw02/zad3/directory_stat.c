@@ -28,7 +28,7 @@ void directory_stat(char* directory_name) {
             char buf[10000];
             sprintf(buf, "%s/%s", directory_name, current->d_name);
             struct stat file_stat;
-            if (stat(buf, &file_stat) < 0) {
+            if (lstat(buf, &file_stat) < 0) {
                 printf("\nCannot get status of file %s\n", buf);
                 return;
             }
