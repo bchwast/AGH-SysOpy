@@ -1,0 +1,5 @@
+Dla funkcji 'fork', proces potomny dziedziczy ustawienia z "ignore", "handler", "mask", natomiast dla "pending"
+sygnał oczekujący w przodku nie jest widoczny w potomku.
+
+Dla funkcji 'exec', proces potomny dziedziczy ustawienia z "ignore" i "mask" oraz dla "pending", sygnał oczekujacy w
+przodku jest widoczny w potomku.
