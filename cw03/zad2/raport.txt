@@ -1,0 +1,36 @@
+               width	           processes	       real_time [s]	       user_time [s]	        sys_time [s]
+            0.000100	                 100	            0.040000	            0.000000	            0.010000
+
+               width	           processes	       real_time [s]	       user_time [s]	        sys_time [s]
+            0.000100	                1000	            0.420000	            0.010000	            0.170000
+
+               width	           processes	       real_time [s]	       user_time [s]	        sys_time [s]
+            0.000100	               10000	            4.810000	            0.050000	            2.810000
+
+               width	           processes	       real_time [s]	       user_time [s]	        sys_time [s]
+            0.000050	               10000	            3.750000	            0.060000	            1.740000
+
+               width	           processes	       real_time [s]	       user_time [s]	        sys_time [s]
+            0.200000	                1500	            0.480000	            0.010000	            0.220000
+
+               width	           processes	       real_time [s]	       user_time [s]	        sys_time [s]
+            0.002000	                4352	            1.430000	            0.020000	            0.800000
+
+               width	           processes	       real_time [s]	       user_time [s]	        sys_time [s]
+            0.000001	                 120	            0.040000	            0.000000	            0.010000
+
+               width	           processes	       real_time [s]	       user_time [s]	        sys_time [s]
+            0.000010	                5400	            1.890000	            0.010000	            0.950000
+
+               width	           processes	       real_time [s]	       user_time [s]	        sys_time [s]
+            0.001200	                3433	            1.210000	            0.010000	            0.440000
+
+               width	           processes	       real_time [s]	       user_time [s]	        sys_time [s]
+            0.000004	               12000	            4.410000	            0.050000	            1.900000
+
+               width	           processes	       real_time [s]	       user_time [s]	        sys_time [s]
+            0.000003	               15000	            5.040000	            0.100000	            3.010000
+
+               width	           processes	       real_time [s]	       user_time [s]	        sys_time [s]
+            0.000002	               13002	            4.520000	            0.060000	            1.900000
+
