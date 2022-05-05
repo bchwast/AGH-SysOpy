@@ -1,0 +1,7 @@
+W przypadku obu systemów otrzymujemy dużą szybkość tworzenia i dostarczania pizz, gdy liczba kucharzy i dostawców
+nie przekracza wielkości pieca i stołu (N, M < 5).
+
+W momencie gdy mamy więcej pracowników to program nadal działa poprawnie, jednakże stół i piec są ciągle zapełnione.
+
+Aby uniknąć szybkiego zapełniania się stołu należyć użyć większej ilości dostawców niż kucharzy, ponieważ kucharze
+działają "szybciej".
