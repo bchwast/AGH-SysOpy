@@ -1,0 +1,344 @@
+Thread count:   1, traverse mode: numbers, file: images/baboon.ascii.pgm
+thread:   0	time:    3111 [µs]
+Total time:  3760 [µs]
+
+====================================
+
+Thread count:   2, traverse mode: numbers, file: images/baboon.ascii.pgm
+thread:   0	time:    3252 [µs]
+thread:   1	time:    3438 [µs]
+Total time:  4165 [µs]
+
+====================================
+
+Thread count:   4, traverse mode: numbers, file: images/baboon.ascii.pgm
+thread:   0	time:    2177 [µs]
+thread:   1	time:    3554 [µs]
+thread:   2	time:    3858 [µs]
+thread:   3	time:    2300 [µs]
+Total time:  4231 [µs]
+
+====================================
+
+Thread count:   8, traverse mode: numbers, file: images/baboon.ascii.pgm
+thread:   0	time:    1840 [µs]
+thread:   1	time:    2215 [µs]
+thread:   2	time:    2958 [µs]
+thread:   3	time:    3552 [µs]
+thread:   4	time:    3761 [µs]
+thread:   5	time:    3317 [µs]
+thread:   6	time:    2518 [µs]
+thread:   7	time:    1268 [µs]
+Total time:  5106 [µs]
+
+====================================
+
+Thread count:  16, traverse mode: numbers, file: images/baboon.ascii.pgm
+thread:   0	time:    1845 [µs]
+thread:   1	time:    1901 [µs]
+thread:   2	time:    2256 [µs]
+thread:   3	time:    2387 [µs]
+thread:   4	time:    2548 [µs]
+thread:   5	time:    3024 [µs]
+thread:   6	time:    3146 [µs]
+thread:   7	time:    3299 [µs]
+thread:   8	time:    3456 [µs]
+thread:   9	time:    3302 [µs]
+thread:  10	time:    3058 [µs]
+thread:  11	time:    2883 [µs]
+thread:  12	time:    2505 [µs]
+thread:  13	time:    1879 [µs]
+thread:  14	time:    1272 [µs]
+thread:  15	time:    1336 [µs]
+Total time:  9715 [µs]
+
+====================================
+
+Thread count:   1, traverse mode:   block, file: images/baboon.ascii.pgm
+thread:   0	time:    1717 [µs]
+Total time:  2377 [µs]
+
+====================================
+
+Thread count:   2, traverse mode:   block, file: images/baboon.ascii.pgm
+thread:   0	time:    1065 [µs]
+thread:   1	time:    1342 [µs]
+Total time:  1878 [µs]
+
+====================================
+
+Thread count:   4, traverse mode:   block, file: images/baboon.ascii.pgm
+thread:   0	time:     724 [µs]
+thread:   1	time:     717 [µs]
+thread:   2	time:     812 [µs]
+thread:   3	time:     446 [µs]
+Total time:  1531 [µs]
+
+====================================
+
+Thread count:   8, traverse mode:   block, file: images/baboon.ascii.pgm
+thread:   0	time:     382 [µs]
+thread:   1	time:     358 [µs]
+thread:   2	time:     396 [µs]
+thread:   3	time:     339 [µs]
+thread:   4	time:     393 [µs]
+thread:   5	time:     343 [µs]
+thread:   6	time:     425 [µs]
+thread:   7	time:     303 [µs]
+Total time:  1546 [µs]
+
+====================================
+
+Thread count:  16, traverse mode:   block, file: images/baboon.ascii.pgm
+thread:   0	time:     326 [µs]
+thread:   1	time:     265 [µs]
+thread:   2	time:     315 [µs]
+thread:   3	time:     281 [µs]
+thread:   4	time:     235 [µs]
+thread:   5	time:     274 [µs]
+thread:   6	time:     216 [µs]
+thread:   7	time:     177 [µs]
+thread:   8	time:     237 [µs]
+thread:   9	time:     258 [µs]
+thread:  10	time:     186 [µs]
+thread:  11	time:     267 [µs]
+thread:  12	time:     256 [µs]
+thread:  13	time:     258 [µs]
+thread:  14	time:     264 [µs]
+thread:  15	time:     232 [µs]
+Total time:  2205 [µs]
+
+====================================
+
+Thread count:   1, traverse mode: numbers, file: images/dragon.ascii.pgm
+thread:   0	time:    2735 [µs]
+Total time:  3421 [µs]
+
+====================================
+
+Thread count:   2, traverse mode: numbers, file: images/dragon.ascii.pgm
+thread:   0	time:    1883 [µs]
+thread:   1	time:    2258 [µs]
+Total time:  2586 [µs]
+
+====================================
+
+Thread count:   4, traverse mode: numbers, file: images/dragon.ascii.pgm
+thread:   0	time:    1760 [µs]
+thread:   1	time:    1926 [µs]
+thread:   2	time:    1579 [µs]
+thread:   3	time:    2193 [µs]
+Total time:  2731 [µs]
+
+====================================
+
+Thread count:   8, traverse mode: numbers, file: images/dragon.ascii.pgm
+thread:   0	time:    1714 [µs]
+thread:   1	time:    1633 [µs]
+thread:   2	time:    1662 [µs]
+thread:   3	time:    1889 [µs]
+thread:   4	time:    1568 [µs]
+thread:   5	time:    1850 [µs]
+thread:   6	time:    1944 [µs]
+thread:   7	time:    2183 [µs]
+Total time:  4590 [µs]
+
+====================================
+
+Thread count:  16, traverse mode: numbers, file: images/dragon.ascii.pgm
+thread:   0	time:    1813 [µs]
+thread:   1	time:    1679 [µs]
+thread:   2	time:    1695 [µs]
+thread:   3	time:    1613 [µs]
+thread:   4	time:    2331 [µs]
+thread:   5	time:    1691 [µs]
+thread:   6	time:    1587 [µs]
+thread:   7	time:    2859 [µs]
+thread:   8	time:    1459 [µs]
+thread:   9	time:    1425 [µs]
+thread:  10	time:    1624 [µs]
+thread:  11	time:    1406 [µs]
+thread:  12	time:    4488 [µs]
+thread:  13	time:    1352 [µs]
+thread:  14	time:    1370 [µs]
+thread:  15	time:    3776 [µs]
+Total time:  8613 [µs]
+
+====================================
+
+Thread count:   1, traverse mode:   block, file: images/dragon.ascii.pgm
+thread:   0	time:    1588 [µs]
+Total time:  2168 [µs]
+
+====================================
+
+Thread count:   2, traverse mode:   block, file: images/dragon.ascii.pgm
+thread:   0	time:    1105 [µs]
+thread:   1	time:     746 [µs]
+Total time:  1384 [µs]
+
+====================================
+
+Thread count:   4, traverse mode:   block, file: images/dragon.ascii.pgm
+thread:   0	time:     596 [µs]
+thread:   1	time:     519 [µs]
+thread:   2	time:     644 [µs]
+thread:   3	time:     691 [µs]
+Total time:  1810 [µs]
+
+====================================
+
+Thread count:   8, traverse mode:   block, file: images/dragon.ascii.pgm
+thread:   0	time:     250 [µs]
+thread:   1	time:     223 [µs]
+thread:   2	time:     238 [µs]
+thread:   3	time:     192 [µs]
+thread:   4	time:     233 [µs]
+thread:   5	time:     214 [µs]
+thread:   6	time:     209 [µs]
+thread:   7	time:     232 [µs]
+Total time:  1091 [µs]
+
+====================================
+
+Thread count:  16, traverse mode:   block, file: images/dragon.ascii.pgm
+thread:   0	time:     230 [µs]
+thread:   1	time:     165 [µs]
+thread:   2	time:     140 [µs]
+thread:   3	time:     164 [µs]
+thread:   4	time:     135 [µs]
+thread:   5	time:     395 [µs]
+thread:   6	time:     668 [µs]
+thread:   7	time:     149 [µs]
+thread:   8	time:     151 [µs]
+thread:   9	time:     127 [µs]
+thread:  10	time:     154 [µs]
+thread:  11	time:     163 [µs]
+thread:  12	time:     138 [µs]
+thread:  13	time:     111 [µs]
+thread:  14	time:     142 [µs]
+thread:  15	time:     134 [µs]
+Total time:  1532 [µs]
+
+====================================
+
+Thread count:   1, traverse mode: numbers, file: images/fractal_tree.ascii.pgm
+thread:   0	time:   45464 [µs]
+Total time: 45988 [µs]
+
+====================================
+
+Thread count:   2, traverse mode: numbers, file: images/fractal_tree.ascii.pgm
+thread:   0	time:   41381 [µs]
+thread:   1	time:   40663 [µs]
+Total time: 41622 [µs]
+
+====================================
+
+Thread count:   4, traverse mode: numbers, file: images/fractal_tree.ascii.pgm
+thread:   0	time:   36745 [µs]
+thread:   1	time:   39337 [µs]
+thread:   2	time:   41648 [µs]
+thread:   3	time:   31613 [µs]
+Total time: 42199 [µs]
+
+====================================
+
+Thread count:   8, traverse mode: numbers, file: images/fractal_tree.ascii.pgm
+thread:   0	time:   73906 [µs]
+thread:   1	time:   83827 [µs]
+thread:   2	time:   64867 [µs]
+thread:   3	time:   88099 [µs]
+thread:   4	time:   95366 [µs]
+thread:   5	time:   78303 [µs]
+thread:   6	time:   80258 [µs]
+thread:   7	time:   54456 [µs]
+Total time: 95729 [µs]
+
+====================================
+
+Thread count:  16, traverse mode: numbers, file: images/fractal_tree.ascii.pgm
+thread:   0	time:   88773 [µs]
+thread:   1	time:   68736 [µs]
+thread:   2	time:   69669 [µs]
+thread:   3	time:   87812 [µs]
+thread:   4	time:   65238 [µs]
+thread:   5	time:   66311 [µs]
+thread:   6	time:   87360 [µs]
+thread:   7	time:   92525 [µs]
+thread:   8	time:  100679 [µs]
+thread:   9	time:   80213 [µs]
+thread:  10	time:   94243 [µs]
+thread:  11	time:  102897 [µs]
+thread:  12	time:   94080 [µs]
+thread:  13	time:   96917 [µs]
+thread:  14	time:   87039 [µs]
+thread:  15	time:   76337 [µs]
+Total time: 122168 [µs]
+
+====================================
+
+Thread count:   1, traverse mode:   block, file: images/fractal_tree.ascii.pgm
+thread:   0	time:   25198 [µs]
+Total time: 25686 [µs]
+
+====================================
+
+Thread count:   2, traverse mode:   block, file: images/fractal_tree.ascii.pgm
+thread:   0	time:   12723 [µs]
+thread:   1	time:   12812 [µs]
+Total time: 13312 [µs]
+
+====================================
+
+Thread count:   4, traverse mode:   block, file: images/fractal_tree.ascii.pgm
+thread:   0	time:    6715 [µs]
+thread:   1	time:    6747 [µs]
+thread:   2	time:    6638 [µs]
+thread:   3	time:    6816 [µs]
+Total time:  7626 [µs]
+
+====================================
+
+Thread count:   8, traverse mode:   block, file: images/fractal_tree.ascii.pgm
+thread:   0	time:    3728 [µs]
+thread:   1	time:    3565 [µs]
+thread:   2	time:    3788 [µs]
+thread:   3	time:    3553 [µs]
+thread:   4	time:    3737 [µs]
+thread:   5	time:    3601 [µs]
+thread:   6	time:    3575 [µs]
+thread:   7	time:    3564 [µs]
+Total time:  7679 [µs]
+
+====================================
+
+Thread count:  16, traverse mode:   block, file: images/fractal_tree.ascii.pgm
+thread:   0	time:    2029 [µs]
+thread:   1	time:    1985 [µs]
+thread:   2	time:    1845 [µs]
+thread:   3	time:    1985 [µs]
+thread:   4	time:    1862 [µs]
+thread:   5	time:    2096 [µs]
+thread:   6	time:    2113 [µs]
+thread:   7	time:    2059 [µs]
+thread:   8	time:    2450 [µs]
+thread:   9	time:    4216 [µs]
+thread:  10	time:    2461 [µs]
+thread:  11	time:    4160 [µs]
+thread:  12	time:    3859 [µs]
+thread:  13	time:    4165 [µs]
+thread:  14	time:    2225 [µs]
+thread:  15	time:    1951 [µs]
+Total time:  7024 [µs]
+
+
+Pomiar został dokonany na 6 rdzeniowym procesorze.
+
+Ewidentnie możemy zauważyć, że korzystanie z metody "numbers" nie ma najmniejszego sensu, ponieważ realnie nie rozdzielamy pracy
+na poszczególne wątki, bo i tak za każdym razem musimy przejść przez całą macierz. Jedynie wraz ze wzrostem użytych wątków
+pogarszamy wydajność poprzez konieczność stworzenia i zamknięcia poszczególnych wątków.
+
+Natomiast w przypadku korzystania z metody "block" uzyskujemy najlepsze czasy dla 4, 8 lub 16 wątków w zależności od wielkości
+obrazu. Im obraz większy tym większa ilość wątków lepiej się sprawdza. Dzieje się tak, bo przy tej strategii realnie rozdzielamy
+zadania na poszczególne wątki i jesteśmy w stanie wykorzystać wielozadaniowość procesora.
